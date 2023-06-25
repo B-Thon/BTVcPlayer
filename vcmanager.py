@@ -1,6 +1,5 @@
 #الملف تابع لـ سورس CatUserBot
 #تعـريب سـورس زدثــون
-# حقوق زدثون - اني باقر
 from telethon import functions
 from telethon.errors import ChatAdminRequiredError, UserAlreadyInvitedError
 from telethon.tl.types import Channel, Chat, User
